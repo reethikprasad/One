@@ -6,8 +6,20 @@
 #main-header .port-item {
   width: 30%;
 }
-.home {
+.home1 {
   background: #81a1ff url(http://www.graphicartsunit.com/images/noise.png);
+}
+
+.home2 {
+  background: #7ccaae url(http://www.graphicartsunit.com/images/noise.png);
+}
+
+.home3 {
+  background: #ecec84 url(http://www.graphicartsunit.com/images/noise.png);
+}
+
+.home4 {
+  background: #ffacbb url(http://www.graphicartsunit.com/images/noise.png);
 }
 
 #main-header .port-item:hover {
@@ -110,7 +122,3 @@
 
 /*
               0rem 0.1rem 1rem rgba(0, 0, 0, .3)*/
-
-h2 {
-  font-family: "Zilla Slab";
-}
